@@ -1,4 +1,5 @@
 # P1
 Small* learning project
 
-Just a small, potentiali big project to learn new skill, Angular to be precise.
+Just a small project to learn Angular JS.
+#alwayslearning
